@@ -1,0 +1,4 @@
+function greeting(){
+	echo $(($1 +$2))
+}
+greeting "2" "2"
